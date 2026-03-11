@@ -40,7 +40,17 @@ Visualization: Interactive Radar Charts using Chart.js to visualize risk vectors
 🗺️ Risk Mapping: Visualizes specific threat vectors through a dynamic Radar Chart.
 
 📄 Security Reports: Generates downloadable diagnostic summaries for users.
+---
 
+## 📸 Visual Demo & Screenshots
+
+To provide a clear understanding of the system's interface and analytical capabilities, here are the key views of **JobGuard AI**:
+
+| 🖥️ Main Dashboard Overview | 📊 Risk Analysis Result |
+| :---: | :---: |
+| ![Dashboard](dashboard.png) | ![Result](result.png) |
+
+> **Note:** The Radar Chart visualizes specific threat vectors such as Urgency, Money Baiting, and Phishing Probability in real-time.
 📊 Performance Metrics
 The model has been rigorously tested and achieved the following:
 
