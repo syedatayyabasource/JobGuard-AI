@@ -48,4 +48,4 @@ python app.py
 Tayyaba Zahra
 Software Engineer | Cybersecurity Researcher
 LinkedIn:  https://www.linkedin.com/in/syeda-tayyaba-14b01436b
-GitHub:    https://github.com/syedatayyabasource               
+GitHub:    https://github.com/syedatayyabasource            
