@@ -1,4 +1,51 @@
-🛡️ JobGuard AIMachine Learning Powered Job Scam DetectionJobGuard AI is a sophisticated cybersecurity tool designed to detect and neutralize fraudulent job listings. By leveraging Random Forest Classification and Heuristic Analysis, the system identifies deceptive patterns in job metadata to protect candidates from phishing and financial scams.📌 Table of Contents➡ Overview➡ The Problem➡ Technical Approach➡ Key Features➡ Performance Metrics➡ Installation & Usage➡ Author🔍 OverviewWith the rise of remote work, job-related scams have increased significantly. JobGuard AI provides a secure terminal where users can audit job descriptions before applying. The engine analyzes linguistic cues and metadata to provide a real-time risk assessment.❓ The ProblemFraudulent job postings are often used to harvest sensitive personal data or solicit illegal payments. These scams use specific "urgency" and "high-pay" triggers that are difficult for humans to quantify manually but are easily detectable through machine learning.🛠️ Technical ApproachAlgorithmRandom Forest Classifier: Chosen for its high precision in binary classification.Feature ExtractionTF-IDF (Term Frequency-Inverse Document Frequency): Used to vectorize and weigh the importance of specific keywords in job postings.Backend & VisualizationFlask: REST API for seamless model inference.Chart.js: Interactive Radar Charts to visualize risk vectors like Urgency and Anonymity.✨ Key Features🚀 Real-time Diagnostics: Paste a job description and get an instant security verdict.📈 AI Confidence Score: Displays the mathematical probability of a listing being a scam.🗺️ Risk Mapping: Visualizes specific threat vectors through a dynamic Radar Chart.📄 Security Reports: Generates downloadable diagnostic summaries for users.📊 Performance MetricsThe model has been rigorously tested and achieved the following:MetricValueAccuracy98.5%Patterns Learned438 Distinct MarkersMethodHeuristic & Static Analysis🚀 Installation & UsageClone the repository:Bashgit clone https://github.com/syedatayyabasource/JobGuard-AI.git
-Install dependencies:Bashpip install -r requirements.txt
-Run the application:Bashpython app.py
-👩‍💻 AuthorTayyaba ZahraSoftware Engineer | Cybersecurity Researcher🔗 LinkedIn: syeda-tayyaba-14b01436b🔗 GitHub: syedatayyabasource
+             🛡️ JobGuard AI:
+ Machine Learning Powered Job Scam Detection:
+JobGuard AI is a sophisticated cybersecurity tool designed to detect and neutralize fraudulent job listings. By leveraging Random Forest Classification and Heuristic Analysis, the system identifies deceptive patterns in job metadata to protect candidates from phishing and financial scams.
+📌 Table of Contents:
+➡ Overview.
+➡ The Problem.
+➡ Technical Approach.
+➡ Key Features.
+➡ Performance Metrics.
+➡ Installation & Usage.
+➡ Author.
+🔍 Overview:
+With the rise of remote work, job-related scams have increased significantly. JobGuard AI provides a secure terminal where users can audit job descriptions before applying. The engine analyzes linguistic cues and metadata to provide a real-time risk assessment.
+❓The Problem:
+Fraudulent job postings are often used to harvest sensitive personal data or solicit illegal payments. These scams use specific "urgency" and "high-pay" triggers that are difficult for humans to quantify manually but are easily detectable through machine learning.
+🛠️ Technical Approach:
+Algorithm: Random Forest Classifier (chosen for its high precision in binary classification).
+Feature Extraction: TF-IDF (Term Frequency-Inverse Document Frequency) to vectorize and weigh the importance of specific words in job postings.
+Backend:
+Flask-based REST API for seamless model inference.
+Visualization: 
+Interactive Radar Charts using Chart.js to visualize risk vectors like Urgency and Anonymity.
+✨ Key Features:
+Real-time Diagnostics: 
+Paste a job description and get an instant security verdict.
+AI Confidence Score: 
+Displays the mathematical probability of a listing being a scam.
+Risk Mapping:
+Visualizes specific threat vectors through a dynamic Radar Chart.
+Security Reports:
+Generates downloadable diagnostic summaries for users.
+📊 Performance Metrics:
+The model has been rigorously tested and achieved the following:
+Accuracy: 98.5%
+Patterns Learned: 438 distinct fraudulent behavior markers.
+Method: Heuristic and Static Metadata Analysis.
+🚀 Installation & Usage:
+Clone the repository:
+Bash
+git clone https://github.com/syedatayyabasource/JobGuard-AI.git
+Install dependencies:
+Bash
+pip install -r requirements.txt
+Run the application:
+Bash
+python app.py
+👩‍💻 Author
+Tayyaba Zahra
+Software Engineer | Cybersecurity Researcher
+LinkedIn:  https://www.linkedin.com/in/syeda-tayyaba-14b01436b
+GitHub:    https://github.com/syedatayyabasource               
