@@ -45,12 +45,14 @@ Visualization: Interactive Radar Charts using Chart.js to visualize risk vectors
 ## 📸 Visual Demo & Screenshots
 
 To provide a clear understanding of the system's interface and analytical capabilities, here are the key views of **JobGuard AI**:
+🖥️ Prediction Terminal (Main Dashboard),📊 Real-time Risk Analysis & Intelligence
+"<img src=""dashbord1.png"" width=""400px"" alt=""Dashboard 1""/>","<img src=""result1.png"" width=""400px"" alt=""Result 1""/>"
+View 1: Input Description Area,View 1: Initial Risk Assessment
+,
+"<img src=""dashbord2.png"" width=""400px"" alt=""Dashboard 2""/>","<img src=""result2.png"" width=""400px"" alt=""Result 2""/>"
+View 2: Security Diagnostics Trigger,View 2: Radar Chart & Security Report
 
-| 🖥️ Main Dashboard Overview | 📊 Risk Analysis Result |
-| :---: | :---: |
-| ![Dashboard](dashboard.png) | ![Result](result.png) |
 
-> **Note:** The Radar Chart visualizes specific threat vectors such as Urgency, Money Baiting, and Phishing Probability in real-time.
 📊 Performance Metrics
 The model has been rigorously tested and achieved the following:
 
