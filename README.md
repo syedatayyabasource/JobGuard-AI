@@ -67,6 +67,6 @@ Tayyaba Zahra
 
 Software Engineer | Cybersecurity Researcher
 
-LinkedIn
+LinkedIn:  https://www.linkedin.com/in/syeda-tayyaba-14b01436b
 
-GitHub
+GitHub:    https://github.com/syedatayyabasource
